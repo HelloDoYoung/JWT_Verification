@@ -3,10 +3,10 @@
 
 ## 사용방법
 Python 3를 설치한 후
-qrcode[pil]
-pyzbar[windows]
-Pillow
-PyJWT 
+qrcode[pil],
+pyzbar[windows],
+Pillow,
+PyJWT
 를 설치합니다. 사용환경에 따라 카메라 권한을 요구할 수 있습니다.
 
 ### 저작권
